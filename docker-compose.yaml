@@ -1,4 +1,3 @@
-version: "3"
 services:
   anaconda:  #環境変数
     build: .  # カレントフォルダーを「.」を書く。これによりDockerfileを使ってイメージが作成される。
